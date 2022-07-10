@@ -1,0 +1,29 @@
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Tanh, Training accuracy = 84.44%, Test accuracy = 53.33%
+learning_rate=0.001, epoch=3000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Tanh, Training accuracy = 70.0 %, Test accuracy = 46.66%
+learning_rate=0.01, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Tanh, Training accuracy = 61.11%, Test accuracy = 35.55%
+learning_rate=0.01, epoch=3000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Tanh, Training accuracy = 61.11%, Test accuracy = 33.33%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Sigmoid, Training accuracy = 33.33%, Test accuracy = 22.22%
+learning_rate=0.01, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Sigmoid, Training accuracy = 33.33%, Test accuracy = 22.22%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[12, 12], activation=Tanh, Training accuracy = 34.44%, Test accuracy = 18.88%
+learning_rate=0.001, epoch=1100, use_bias=True, num_of_layers=2, size_of_layers=[32, 32], activation=Tanh, Training accuracy = 81.11%, Test accuracy = 50.0%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=3, size_of_layers=[32, 32, 16], activation=Tanh, Training accuracy = 65.55%, Test accuracy = 44.44%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=3, size_of_layers=[32, 16, 16], activation=Tanh, Training accuracy = 56.66%, Test accuracy = 35.55%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=3, size_of_layers=[32, 16, 4], activation=Tanh, Training accuracy = 30.0%, Test accuracy = 17.77%
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[64, 32], activation=Tanh, Training accuracy = 61.11%, Test accuracy = 36.66%
+learning_rate=0.001, epoch=4000, use_bias=True, num_of_layers=2, size_of_layers=[64, 32], activation=Tanh, Training accuracy = 57.77%, Test accuracy = 34.44%
+learning_rate=0.001, epoch=4000, use_bias=True, num_of_layers=2, size_of_layers=[16, 12], activation=Tanh, Training accuracy = 56.66%, Test accuracy = 33.33%
+learning_rate=0.001, epoch=1400, use_bias=True, num_of_layers=2, size_of_layers=[32, 9], activation=Tanh, raining accuracy = 84.44%, Test accuracy = 50.0%
+
+
+
+best 
+learning_rate=0.001, epoch=2000, use_bias=True, num_of_layers=2, size_of_layers=[32, 16], activation=Tanh, Training accuracy = 84.44%, Test accuracy = 53.33%
+
+
+
+
+
+
+
+
+
